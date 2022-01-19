@@ -1,0 +1,15 @@
+body
+{
+text-align: center;
+background:radial-gradient(#fd58d9,#d852f3,#4264fc);
+background-size:cover;
+}
+
+a
+{
+    font-size: 20px !important;
+    width: 200px;
+    background-color: black;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
